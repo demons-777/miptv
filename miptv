@@ -116,10 +116,10 @@ http://38.41.8.1:8000/play/a081
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 #EXTINF:-1 xui-id="1279" tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="http://digitaltvsv.com:80/images/hDho9zfPqWfkgYTn68heNc3aJ6O5BijPDE7on_P8e3dG8QBsMi6sF2X5DHDcH0Ar52AD1471Wu9T2i7wykketYqsFPCVQEMBOJHNq-NxuJN3-NbTOfKdfkhQAtio7F_ARMWCi3TbC-UWOabvel2cJeXJpfQ8itg0jzIMVfPBUhc.png" group-title="DEPORTES",CDO Premium
-http://digitaltvsv.com:80/play/uDc17ThDQbzp1szvU3U_HVc7VJdMbGpwtJZD-RHqhoY/m3u8
+http://190.11.130.46/mnp/cdo/output.mpd
 
 #EXTINF:-1 xui-id="1280" tvg-id="" tvg-name="DIRECTV SPORTS 2 (CHI)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT8uHVTqacpiZgj8etzc9MKEpAduezl9-z4YRuP8o&s" group-title="DEPORTES",DIRECTV SPORTS 2 (CHI)
-http://digitaltvsv.com:80/play/uDc17ThDQbzp1szvU3U_HfLJm7hL1nOqsE9KC1kRC10/m3u8
+http://190.11.130.46/mnp/directvspo1/output.mpd
 
 #EXTINF:-1 xui-id="1281" tvg-id="" tvg-name="DIRECTV SPORTS 1 (CHI)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT8uHVTqacpiZgj8etzc9MKEpAduezl9-z4YRuP8o&s" group-title="DEPORTES",DIRECTV SPORTS 1 (CHI)
 http://digitaltvsv.com:80/play/uDc17ThDQbzp1szvU3U_HcHtEcTn6DQ61SmSf1Njwg4/m3u8
@@ -137,7 +137,7 @@ https://51a.crackstreamslivehd.com/liga1max/tracks-v1a1/mono.m3u8?ip=201.186.164
 http://38.41.8.1:8000/play/a061
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="" group-title="DEPORTES",WIN SPORTS +
-https://99a.crackstreamslivehd.com/winplus/tracks-v1a1/mono.m3u8?ip=201.186.164.210&token=073ea6aab0ca1b5208bf07887c88f95f64d11530-69-1744538167-1744505767
+http://190.11.130.46/mnp/winspor+/output.mpd
 
 ----------CINE Y SERIES----------
  
@@ -229,7 +229,7 @@ http://179.49.163.34:45000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES",SONY CHANNEL
 http://179.49.163.34:45000/play/a020/index.m3u8
 
-#EXTINF:-1 xui-id="166721" tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://digitaltvsv.com:80/images/V6j0SvlRRe5Ms06dun1H1NsaE6rGgh-VnsG9J7yZEX8uni2PdDGnYZETYPhINEru.png" group-title="CINE Y SERIES",SONY MOVIES
+#EXTINF:-1 xui-id="166721" tvg-id="" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
  
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
