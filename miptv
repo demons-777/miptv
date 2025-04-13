@@ -64,10 +64,10 @@ https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
  
  
 #EXTINF:-1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TNT ● SPORTS PREMIUM HD | ⚽
-https://pol5.dunyapurkaraja.com:999/hls/chiletv.m3u8?md5=3actOn0jm7ygDUegwMZXVA&expires=1744521839
+
 
 #EXTINF:-1 xui-id="1256" tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES",TNT SPORTS HD
-http://digitaltvsv.com:80/play/uDc17ThDQbzp1szvU3U_HSj6XREMnP-KvFjox6tKN_M/m3u8
+https://pol5.dunyapurkaraja.com:999/hls/chiletv.m3u8?md5=HqUHnX4--q2qlQNt6Qd6VQ&expires=1744562652
 
 #EXTINF:-1 xui-id="148177" tvg-id="" tvg-name="CL | ESPN PREMIUM" tvg-logo="http://digitaltvsv.com:80/images/Lf7e8-l0LchBU2y-7bCVTwuukuzSwZr8xwtTel0QGhiKYRaY9XQ98_wkGQxP7l0Q.png" group-title="DEPORTES"ESPN PREMIUM
 http://digitaltvsv.com:80/play/uDc17ThDQbzp1szvU3U_Hd79u-hMKf6SKqWqgKUF9_XcFgj-RlTj5qMYz0kW0v3f/m3u8
