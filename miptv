@@ -43,7 +43,7 @@ https://cdn-live.mundogo.cl/lared/lared.mpd
 https://jireh-3-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=b269562930467fb202ce192b&sid=ba5t1l1xb297870447567fb202d9a0b0&ndvc=0
 
 #EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/TVR-Canal-11-Curico-en-vivo-Online-696x392.png" group-title="NACIONAL",CANAL 11 CURICO
-https://cloudpro.servidoresdestream.com:8081/8006/tracks-v1a1/mono.m3u8
+https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
@@ -78,7 +78,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png" group-title="NACIONAL", NTV 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/320?cb=20211128231238&path-prefix=e" group-title="NACIONAL", TVMAS 2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/TV_MAS_2.png " group-title="NACIONAL", TVMAS 2
 https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="NACIONAL", Tevex      
