@@ -274,10 +274,10 @@ http://190.11.130.46/mnp/tntseries/output.mpd
 http://190.11.130.46/mnp/tntnovelas/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES",TCM
-http://190.11.130.46/mnp/tntnovelas/output.mpd
+http://190.11.130.46/mnp/tcm/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/330px-USA_Network_logo_%282016%29.svg.png" group-title="CINE Y SERIES",USA
-http://38.41.8.1:8000/play/a057
+http://190.11.130.46/mnp/usa/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="CINE Y SERIES",UNIVERSAL 
 http://190.11.130.46/mnp/universal/output.mpd 
@@ -313,9 +313,6 @@ http://190.11.130.46/mnp/disney/output.mpd
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES",DISNEY JR HD
 http://190.11.130.46/mnp/disneyjr/output.mpd
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES",NICKELODEON HD (2)
-http://38.41.8.1:8000/play/a00i
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES",NICK JR HD
 http://200.60.124.19:29000/play/a02c/index.m3u8
