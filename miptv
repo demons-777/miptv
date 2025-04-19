@@ -56,12 +56,16 @@ http://200.60.124.19:29000/play/a01c/index.m3u8
  
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" group-title="NACIONAL", PLANETA TV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
- 
+
+
 #EXTINF:-1 tvg-id="1249" tvg-name="Molina TV" tvg-logo="https://cdn.m3u.cl/logo/1249_Molina_TV.png", Molina TV | CL
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="NACIONAL", Canal 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
+https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13festival/13festival.smil/13festival/livestream0/l_413_1534626000_256583.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="NACIONAL", Canal 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
@@ -364,7 +368,7 @@ http://179.49.163.34:45000/play/a036/index.m3u8
 http://179.49.163.34:45000/play/a010/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true" group-title="cultura y entretenimiento",las estrellas
-http://200.60.124.19:29000/play/a01d/index.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
  
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela.png?raw=true" group-title="cultura y entretenimiento",telemundo
 http://200.60.124.19:29000/play/a01g/index.m3u8
