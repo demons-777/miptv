@@ -156,13 +156,13 @@ http://190.11.130.46/mnp/winspor+/output.mpd
 https://bein-esp-xumo.amagi.tv/playlistR576p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="" group-title="DEPORTES",FOX SPORT
-
+http://190.11.130.46/mnp/foxsport/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="" group-title="DEPORTES",FOX SPORT 2
-
+http://190.11.130.46/mnp/foxsprt2/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="" group-title="DEPORTES",FOX SPORT 3
-
+http://190.11.130.46/mnp/foxsport3/output.mpd
 
 
 ----------CINE Y SERIES----------
@@ -372,9 +372,8 @@ http://200.60.124.19:29000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crntnn.png?raw=true" group-title="INFANTIL",CARTOON NETWORKS 2
 http://clubtv.link/ab1704/phpcode/lista2.php?c=a024&f=.m3u8&token=Tecnoplus11
 
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES",CARTOONITO HD
-http://clubtv.link/ab1704/phpcode/lista2.php?c=a003&f=.m3u8&token=Tecnoplus11
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crntnn.png?raw=true" group-title="INFANTIL",CARTOON NETWORKS
+http://190.11.130.46/mnp/cartoon/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="INFANTIL",DISCOVERY KIDS
 http://179.49.163.34:45000/play/a009/index.m3u8
@@ -385,8 +384,6 @@ http://clubtv.link/ab1704/phpcode/lista2.php?c=a02k&f=.m3u8&token=Tecnoplus11
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="INFANTIL",DREAMWORKS
 http://179.49.163.34:45000/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="INFANTIL",DREAMWORKS
-http://190.11.130.46/mnp/dreamworks/output.mpd
 
 #EXTINF:-1 group-title="INFANTIL", BOOMERANG
 http://clubtv.link/ab1704/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
@@ -394,8 +391,11 @@ http://clubtv.link/ab1704/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES",NICKELODEON HD
 http://190.11.130.46/mnp/nickelodeon/output.mpd
 
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES",NICK JR HD
+http://190.11.130.46/mnp/nickjr/output.mpd
+
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES",CARTOONITO HD
-http://177.93.48.30:8552/play/a00e/index.m3u8
+http://190.11.130.46/mnp/boomerang/output.mpd
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/Lk9TH8f/disney-channel.png" group-title="INFANTILES",DISNEY CHANNEL HD
 http://clubtv.link/ab1704/phpcode/lista2.php?c=a02o&f=.m3u8&token=Tecnoplus11
@@ -412,14 +412,8 @@ http://190.11.130.46/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES",DISNEY JR 2
 http://clubtv.link/ab1704/phpcode/lista1.php?c=a08r&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES",NICK JR HD
-http://200.60.124.19:29000/play/a02c/index.m3u8
-
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES",TOONCAST HD
 http://190.11.130.46/mnp/tooncast/output.mpd
-
-#EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", group-title="INFANTILES",ANIRETRO
-https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",group-title="INFANTILES",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
@@ -433,7 +427,7 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_outp
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="MUSICA",MTV HD
-http://190.11.130.46/mnp/mtv/output.mpdhttp://190.11.130.46/mnp/tntnovelas/output.mpd
+http://190.11.130.46/mnp/mtv/output.mpd
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSICA",HTV 
 http://190.11.130.46/mnp/htv/output.mpd
@@ -488,7 +482,7 @@ http://200.60.124.19:29000/play/a06k/index.m3u8
 http://179.49.163.34:45000/play/a031/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY CHANNEL
-http://clubtv.link/ab1704/phpcode/lista2.php?c=a02i&f=.m3u8&token=Tecnoplus11
+http://190.11.130.46/mnp/discovery/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY CHANNEL 2
 https://clubtv.link/ab1704/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
