@@ -65,7 +65,7 @@ https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
-https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13festival/13festival.smil/13festival/livestream0/l_413_1534626000_256583.ts
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="NACIONAL", Canal 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
