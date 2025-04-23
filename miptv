@@ -391,7 +391,6 @@ http://clubtv.link/ab1704/phpcode/lista2.php?c=a02k&f=.m3u8&token=Tecnoplus11
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="INFANTIL",DREAMWORKS
 http://179.49.163.34:45000/play/a011/index.m3u8
 
-
 #EXTINF:-1 group-title="INFANTIL", BOOMERANG
 http://clubtv.link/ab1704/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
 
@@ -428,8 +427,7 @@ http://181.78.208.25:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",group-title="INFANTILES",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1604" tvg-name="FANPOP TV" tvg-logo="https://serenotv.com/cargas/2023/06/Fanpop-300x300.jpg",group-title="INFANTILES",FANPOP TV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0_574255.ts?session=aHtDM7PeG9vDPS4TRPTD8i
+
 
 ----------MISICA----------
  
