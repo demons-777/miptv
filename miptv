@@ -102,7 +102,7 @@ http://live1.cl.cdn.lla.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
 http://live1.cl.cdn.lla.vtrplay.com/foxsports2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="CDO" tvg-name="CDO" tvg-logo="https://americatvlistings.com/img/cl/logo/canal-cdo.png" group-title="DEPORTES", CDO
+#EXTINF:-1 tvg-id="CDO" tvg-name="CDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES", CDO
 http://live1.cl.cdn.lla.vtrplay.com/cdohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TYC SPORTS HD
@@ -125,10 +125,7 @@ http://181.78.27.128:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="GOLTV" tvg-name="GOL TV" tvg-logo="https://c3.klipartz.com/pngpicture/140/227/sticker-png-tv-channel-icons-pack-gol-tv-color.png" group-title="DEPORTES", GOL TV
 http://181.78.27.128:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-id="WINSPORT" tvg-name="WIN SPORTS" tvg-logo="" group-title="DEPORTES", WIN SPORTS
-http://181.78.208.25:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1max-logo-png_seeklogo-519693.png" group-title="DEPORTES", L1MAX
+#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
 http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
@@ -233,10 +230,10 @@ http://190.11.130.46/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://181.78.208.25:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://spng.pngfind.com/pngs/s/527-5278647_universal-studios-tv-logo-hd-png-download.png" group-title="CINE Y SERIES", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://brandlogos.net/wp-content/uploads/2018/10/universal-tv-logo.png" group-title="CINE Y SERIES", UNIVERSAL TV
+#EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://spng.pngfind.com/pngs/s/527-5278647_universal-studios-tv-logo-hd-png-downloadg" group-title="CINE Y SERIES", UNIVERSAL TV
 http://live1.cl.cdn.lla.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
@@ -264,6 +261,9 @@ http://live1.cl.cdn.lla.vtrplay.com/babyfirsthdchi/vxfmt=dp/playlist.m3u8?device
 #EXTINF:-1 tvg-id="ETCTV" tvg-name="ETC TV" tvg-logo="https://th.bing.com/th/id/R.ec5dd1fd030db6b73224174742c977d5?rik=ySlA4iArk%2f%2bGNg&riu=http%3a%2f%2ftv-online.cl%2fetc-tv-chile-en-vivo.jpg%3f210107074358&ehk=vL4NWZiWxJ3KT%2f%2fJePyrdv%2ft6KsTCHSCiWZd3JU%2fjcc%3d&risl=&pid=ImgRaw&r=0" group-title="INFANTILES", ETC TV
 http://live1.cl.cdn.lla.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="" group-title="INFANTILES", DREAMWORKS
+http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
 http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -288,8 +288,8 @@ http://190.11.130.46/mnp/nickjr/output.mpd
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES",TOONCAST
 http://190.11.130.46/mnp/tooncast/output.mpd
 
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="" group-title="INFANTILES", DREAMWORKS
-http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="SENPAITV" tvg-name="SENPAI TV" tvg-logo="https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png" group-title="INFANTILES", SENPAI TV
+http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="INFANTILES", ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
