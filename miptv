@@ -75,7 +75,7 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 ----------DEPORTES----------
 
 
-#EXTINF:-1 tvg-id="TNTSportsHD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT SPORTS PREMIUM
+#EXTINF:-1 tvg-id="TNTSportsHD" tvg-name="TNT SPORTS HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT SPORTS PREMIUM
 http://live1.cl.cdn.lla.vtrplay.com/cdfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
@@ -105,7 +105,7 @@ http://live1.cl.cdn.lla.vtrplay.com/foxsports2hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-id="CDO" tvg-name="CDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES", CDO
 http://live1.cl.cdn.lla.vtrplay.com/cdohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TYC SPORTS HD
+#EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TYC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
@@ -113,7 +113,7 @@ https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 #EXTINF:-1 tvg-id="ESPNDEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/109/656/png-clipart-caribbean-series-bristol-liga-mx-espn-deportes-espn-television-text.png" group-title="DEPORTES", ESPN DEPORTES
 https://v1.thetvapp.to/hls/espn-deportes/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS1" tvg-name="FOX SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwiu6IVKjOMR-AGBxtvtrZlGMfyhhBNsN8A&s" group-title="DEPORTES", FOX SPORT 1
+#EXTINF:-1 tvg-id="FOXSPORTS1" tvg-name="FOX SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORT 1
 http://181.78.27.128:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES", FOX SPORTS 2
