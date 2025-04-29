@@ -113,7 +113,7 @@ https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 #EXTINF:-1 tvg-id="ESPNDEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/109/656/png-clipart-caribbean-series-bristol-liga-mx-espn-deportes-espn-television-text.png" group-title="DEPORTES", ESPN DEPORTES
 https://v1.thetvapp.to/hls/espn-deportes/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS1" tvg-name="FOX SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORT 1
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORT
 http://181.78.27.128:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES", FOX SPORTS 2
