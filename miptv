@@ -139,10 +139,10 @@ http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_
 http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://190.11.130.46/mnp/ae/output.mpd
+http://181.78.27.128:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://190.11.130.46/mnp/axn/output.mpd
+http://181.78.27.128:8000/play/a01w/index.m3u8 
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -263,7 +263,7 @@ http://live1.cl.cdn.lla.vtrplay.com/babyfirsthdchi/vxfmt=dp/playlist.m3u8?device
 #EXTINF:-1 tvg-id="ETCTV" tvg-name="ETC TV" tvg-logo="https://th.bing.com/th/id/R.ec5dd1fd030db6b73224174742c977d5?rik=ySlA4iArk%2f%2bGNg&riu=http%3a%2f%2ftv-online.cl%2fetc-tv-chile-en-vivo.jpg%3f210107074358&ehk=vL4NWZiWxJ3KT%2f%2fJePyrdv%2ft6KsTCHSCiWZd3JU%2fjcc%3d&risl=&pid=ImgRaw&r=0" group-title="INFANTILES", ETC TV
 http://live1.cl.cdn.lla.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="" group-title="INFANTILES", DREAMWORKS
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
@@ -285,10 +285,10 @@ http://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://190.11.130.46/mnp/nickelodeon/output.mpd
+http://181.78.27.128:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
-http://190.11.130.46/mnp/nickjr/output.mpd
+http://181.78.27.128:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="PLIMPLIN" tvg-name="PLIM PLIN" tvg-logo="https://cdn.storage.foromedios.com/monthly_2024_01/large.ElCanaldelPayasoPlimPlim(2023-).png.86c6cbf2fc741312e0c244f84eec14e6.png" group-title="INFANTILES", PLIM PLIN
 http://live1.cl.cdn.lla.vtrplay.com/plimplimhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -306,20 +306,20 @@ https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 ----------CULTURA Y ENTRETENIMIENTO----------
 
 
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO", ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO", ANIMAL PLANET
 http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CULTURA Y ENTRETENIMIENTO", COMEDY CENTRAL
-http://190.11.130.46/mnp/comedy/output.mpd
+http://181.78.27.128:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-id="DOCU" tvg-name="DOCU" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcThf-YvMnXLh_lzwER9k3nIjpaiSVfIRUZg&s" group-title="CULTURA Y ENTRETENIMIENTO", DOCU
+#EXTINF:-1 tvg-id="DOCU" tvg-name="DOCU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcThf-YvMnXLh_lzwER9k3nIjpaiSVfIRUZg&s" group-title="CULTURA Y ENTRETENIMIENTO", DOCU
 http://live1.cl.cdn.lla.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="DISCOVERYH&H" tvg-name="DISCOVERY H&H" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY H&H
 http://181.78.27.128:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYID" tvg-name="DISCOVERY ID" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b54c6c7c38bc2c1c5f_investigation.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY ID
-http://181.78.208.25:8000/play/a01k/index.m3u8
+http://181.78.27.128:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERITHEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d5f9d1a5dbc14cfc5e_d-theater.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY THEATER
 http://live1.cl.cdn.lla.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -334,7 +334,7 @@ http://live1.cl.cdn.lla.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device
 http://live1.cl.cdn.lla.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="EL GOURMET" tvg-name="EL GOURMET" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png" group-title="CULTURA Y ENTRETENIMIENTO", EL GOURMET
-http://161.132.194.88:6178/play/a0sm/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f69af8210c7c02966209_food.png" group-title="CULTURA Y ENTRETENIMIENTO", FOOD NETWORK
 http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -343,10 +343,10 @@ http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?devi
 http://181.78.208.25:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY
-http://190.11.130.46/mnp/history/output.mpd
+http://181.78.27.128:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2
-http://190.60.38.114:1010/play/a04j/index.m3u8
+
 
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-name="LAS ESTRELLAS " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true" group-title="CULTURA Y ENTRETENIMIENTO", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
@@ -358,13 +358,13 @@ http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?devic
 http://live1.cl.cdn.lla.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png" group-title="CULTURA Y ENTRETENIMIENTO", TLC
-http://181.78.208.25:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
+
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://cdn.worldvectorlogo.com/logos/national-geographic.svg" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="SUNCHANNEL" tvg-name="SUN CHANNEL" tvg-logo="https://thafd.bing.com/th/id/OIP.OQxmydNuqRrpQcwaMDatcAHaHJ?rs=1&pid=ImgDetMain" group-title="CULTURA Y ENTRETENIMIENTO", SUN CHANNEL
-http://181.78.208.25:8000/play/a02x/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
 http://181.78.208.25:8000/play/a02k/index.m3u8
