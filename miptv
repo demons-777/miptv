@@ -200,8 +200,10 @@ http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profil
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="CINE Y SERIES", MULTIPREMIER
 http://179.49.163.34:45000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL
-http://190.11.130.46/mnp/parammount/output.mpd
+EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES",PARAMOUNT CHANNEL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/paramount/paramount.mpd
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES", SPACE
 http://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
