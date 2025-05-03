@@ -311,13 +311,10 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://clubtv.link/may0105/phpcode/android0.php?c=645&token=Tecnoplus11&f=.m3u8
+http://200.60.124.19:29000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
 http://181.78.27.128:8000/play/a036/index.m3u8
-
-#EXTINF:-1 tvg-id="NICKTEEN" tvg-name="NICKTEEN" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICKTEEN
-http://clubtv.link/may0105/phpcode/android0.php?c=646&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
 
@@ -390,7 +387,7 @@ http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?devic
 http://live1.cl.cdn.lla.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png" group-title="CULTURA Y ENTRETENIMIENTO", TLC
-http://179.49.163.34:45000/play/a02t/index.m3u8
+http://200.60.124.19:29000/play/a01b/index.m3u8 
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO", LIFETIME
 http://179.49.163.34:45000/play/a01o/index.m3u8 
