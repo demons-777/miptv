@@ -15,6 +15,9 @@ https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omisb3BTUd+mx3OY11VZ2A", "kid":"aPEVoOM+XuqA6n1DlAhRIg" },{ "kty":"oct", "k":"RvzUidoRiHnKg53LDMJgyg", "kid":"O0mp7/cJUPilYLh1X+uVAg" },{ "kty":"oct", "k":"zV8aUU7WOnbuyrEZWOPSww", "kid":"vZBRINS1WiSN/5S5by9xQw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
 
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega 2" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/mega2.png" group-title="NACIONAL", MEGA 2
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162
+
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL", TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
@@ -52,7 +55,7 @@ http://200.60.124.19:29000/play/a01c/index.m3u8
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RECTV" tVg-name="REC TV" tvg-logo="https://thafd.bing.com/th/id/OIP.zggfmuEBI2GXLuMYBIcMpQAAAA?rs=1&pid=ImgDetMain" group-title="NACIONAL", REC TV
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54386.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/137196
 
 #EXTINF:-1 tvg-id="TEVEX" tvg-name="TEVEX" tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="NACIONAL", Tevex      
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
@@ -343,7 +346,7 @@ http://190.60.33.245:4002/play/a1hf/index.m3u8
 http://190.60.33.245:4002/play/a1hg/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54466.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/450
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54464.m3u8
@@ -451,7 +454,7 @@ http://45.5.119.43:4000/play/a0ks/index.m3u8
 http://190.60.33.245:4002/play/a1gr/index.m3u8  
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY TURBO
-http://179.49.163.34:45000/play/a01a/index.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/358
 
 #EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="DISCOVERY WORLD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY WORLD
 http://190.60.33.245:4002/play/a1i9/index.m3u8 
@@ -505,6 +508,19 @@ http://179.49.163.34:45000/play/a01o/index.m3u8
 http://190.60.33.245:4002/play/a1i8/index.m3u8 
 
 
+----------24/7-----------
+
+#EXTINF:-1 tvg-id="EL CHAVO" tvg-name="EL CHAVO" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", EL CHAVO DEL 8
+http://user.tvcluboficial.com/live/m/m/400.m3u8
+
+#EXTINF:-1 tvg-id="LOS PICA" tvg-name="LOS PICAPIEDRAS" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", LOS PICAPIEDRAS
+http://user.tvcluboficial.com/live/m/m/669.m3u8
+
+#EXTINF:-1 tvg-id="LOS SIMP" tvg-name="LOS SIMPSONS" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", LOS SIMPSONS
+http://user.tvcluboficial.com/live/m/m/357.m3u8
+
+#EXTINF:-1 tvg-id="LOS SUP" tvg-name="SUPER CAMPEONES" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", SUPER CAMPEONES
+http://user.tvcluboficial.com/live/m/m/432.m3u8
 
 ----------ADULTOS----------
 
@@ -521,7 +537,7 @@ http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="venus" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", venus+
 http://38.49.128.38:8000/play/a09b/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", SEXTREME
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", SXTREME
 http://38.49.128.38:8000/play/a09c/22254939.m3u8
 
 #EXTINF:-1 xui-id="324183" tvg-id="" tvg-name="xXx PLAYBOY TV ● @" tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS", PLAYBOY TV
@@ -539,7 +555,7 @@ http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouAJl8SlPFME2pqijdWvh0TzzpVpLDzy9
 #EXTINF:-1 xui-id="324191" tvg-id="" tvg-name="xXx PRIVATE TV (18+)" tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS", PRIVATE TV (18+)
 http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouAJl8SlPFME2pqijdWvh0Tz4Wbjr7-ee2ZuRzADDp-9i/m3u8
 
-#EXTINF:-1 xui-id="324196" tvg-id="" tvg-name="PORNPlus: SIS LOVES ME ●" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="TV | ADULTOS XXX",PORNPlus: SIS LOVES ME 
+#EXTINF:-1 xui-id="324196" tvg-id="" tvg-name="PORNPlus: SIS LOVES ME ●" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PORNPlus: SIS LOVES ME 
 http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouAJl8SlPFME2pqijdWvh0TzJg3H5KMN_VD1zCcociND2/m3u8
 
 #EXTINF:-1 xui-id="324203" tvg-id="" tvg-name="xXx  PENTHOUSE GOLD @" tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS", PENTHOUSE GOLD
@@ -802,5 +818,6 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
