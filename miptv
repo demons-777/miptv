@@ -535,7 +535,7 @@ http://190.60.33.245:4002/play/a1i8/index.m3u8
 http://user.tvcluboficial.com/live/m/m/400.m3u8
 
 #EXTINF:-1 tvg-id="LOS PICA" tvg-name="LOS PICAPIEDRAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn31f6UC9bVQOad-gfNfnpbEGQbzYHSqtPWQ&s" group-title="24/7", LOS PICAPIEDRAS
-http://user.tvcluboficial.com/live/m/m/669.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/784.m3u8
 
 #EXTINF:-1 tvg-id="LOS SIMP" tvg-name="LOS SIMPSONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7", LOS SIMPSONS
 http://user.tvcluboficial.com/live/m/m/357.m3u8
@@ -543,6 +543,14 @@ http://user.tvcluboficial.com/live/m/m/357.m3u8
 #EXTINF:-1 tvg-id="LOS SUP" tvg-name="SUPER CAMPEONES" tvg-logo="https://static.wikia.nocookie.net/wikiseriesjaponesas/images/6/6f/Dvd-los-supercampeones-serie-animada-super-campeones-oliver-17097-MLC20132238145_072014-F.jpg/revision/latest?cb=20160710181041&path-prefix=es" group-title="24/7", SUPER CAMPEONES
 http://user.tvcluboficial.com/live/m/m/432.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7", DRAGON BALL
+http://higherpro.xyz:8080/live/56956478056/270924ztv/697.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7", TWO AND A HALF
+http://higherpro.xyz:8080/live/56956478056/270924ztv/701.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7*Family Guy" tvg-logo="" group-title="24/7", Family Guy
+http://higherpro.xyz:8080/live/56956478056/270924ztv/253529.m3u8
 
 ----------ADULTOS----------
 
@@ -840,14 +848,3 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
-
-
-
-
-
-
-
-
-
-
-
