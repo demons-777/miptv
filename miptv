@@ -109,7 +109,6 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
-
 ----------DEPORTES----------
 
 
@@ -120,10 +119,10 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/92.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/93.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 3
-http://higherpro.xyz:8080/live/56956478056/270924ztv/247844.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/59792
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 4
-http://higherpro.xyz:8080/live/56956478056/270924ztv/86.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/31148
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 5" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 5
 http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8
@@ -260,7 +259,7 @@ http://190.60.33.245:4002/play/a1l0/index.m3u8
 http://190.60.33.245:4002/play/a1mg/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
+http://45.5.119.43:4000/play/a0hn/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
@@ -383,7 +382,6 @@ http://104.238.222.251:8989/278478_.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8
-
 
 
 ----------INFANTILES----------
@@ -531,6 +529,7 @@ http://190.60.33.245:4002/play/a1i8/index.m3u8
 
 ----------24/7-----------
 
+
 #EXTINF:-1 tvg-id="EL CHAVO" tvg-name="EL CHAVO" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", EL CHAVO DEL 8
 http://user.tvcluboficial.com/live/m/m/400.m3u8
 
@@ -549,8 +548,15 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/697.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7", TWO AND A HALF
 http://higherpro.xyz:8080/live/56956478056/270924ztv/701.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Family Guy" tvg-logo="" group-title="24/7", Family Guy
+#EXTINF:-1 tvg-id="" tvg-name="FAMIMY GUY" tvg-logo="" group-title="24/7", FAMILY GUY
 http://higherpro.xyz:8080/live/56956478056/270924ztv/253529.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CORRECAMINOS Y EL COYOTE" tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7", CORRECAMINOS Y COYOTE
+http://user.tvcluboficial.com/live/m/m/429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EL GALLO CLAUDIO" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7", EL GALLO CLAUDIO
+http://user.tvcluboficial.com/live/m/m/845.m3u8
+
 
 ----------ADULTOS----------
 
@@ -848,3 +854,4 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
