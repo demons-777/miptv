@@ -278,7 +278,7 @@ http://190.238.172.153:8000/play/a09m
 http://104.238.222.251:8989/278490_.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
-http://tvdirecto.pro:8080/live/948068511/8noplifre/291953.m3u
+http://tvdirecto.pro:8080/live/948068511/8noplifre/3512.m3u
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
 http://190.238.172.153:8000/play/a0bw
@@ -806,6 +806,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
