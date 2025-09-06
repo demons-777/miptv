@@ -370,7 +370,7 @@ http://200.60.124.19:29000/play/a01s/index.m3u8
 http://104.238.205.28:8989/278452_.m3u8
 
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES", STUDIO UNIVERSAL
-http://190.238.172.153:8000/play/a0aa
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVERSALCH/40-hls/live-media.m3u8
@@ -806,6 +806,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
