@@ -110,7 +110,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 http://magiz.net:25461/live/12345678/12345678/85.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 2" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 2
-http://tvpromas.com:2082/stkramip/8430/57156
+http://38.7.101.90:8000/play/a1eu/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 3
 http://190.238.172.153:8000/play/a0ek
@@ -833,6 +833,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
