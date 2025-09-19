@@ -316,7 +316,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/121.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-http://200.60.124.19:29000/play/a029/index.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/195152.m3u
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES", GOLDEN
 http://tvdirecto.pro:8080/live/948068511/8noplifre/195974.m3u
@@ -854,6 +854,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
