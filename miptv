@@ -254,7 +254,7 @@ http://199.127.63.143:8989/278394_.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278465.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
-http://45.5.119.43:4000/play/a0hq/index.m3u8
+http://190.60.33.245:4002/play/a1hz/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
@@ -313,16 +313,16 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE
-http://190.60.33.245:4002/play/a1kb/index.m3u8 dhe
+http://higherpro.xyz:8080/live/56956478056/270924ztv/121.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
 http://200.60.124.19:29000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES", GOLDEN
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/195974.m3u
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/65218.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
@@ -619,6 +619,33 @@ https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7", LOS SIMPSONS
 http://user.tvcluboficial.com/live/m/m/357.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bones" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" group-title="24/7", Bones
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919
+
+#EXTINF:-1 tvg-id="" tvg-name="Parodias" tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" group-title="24/7", Cinema - Parodias
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema (4K)" tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" group-title="24/7", Cinema 4K
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" group-title="24/7", CSI Miami
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924
+
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7", Detective Conan
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5.0" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" group-title="24/7", Hawaii 5.0
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shameless (e)" tvg-logo="https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png" group-title="24/7", Shameless 
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (e)" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7", The Big Bang Theory 
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Fresh Prince of Bel Air (e)" tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" group-title="24/7", The Fresh Prince of Bel Air
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868
+
 ----------ADULTOS----------
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", PLAYBOY
@@ -827,6 +854,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
