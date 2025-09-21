@@ -268,6 +268,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0" group-title="CINE Y SERIES", CLARO CINEMA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 
+#EXTINF:-1 tvg-id="CINEMA" tvg-name="CINEMA DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE Y SERIES", CINE DINAMITA
+http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/116
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", CINE LATINO
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 
@@ -357,6 +360,9 @@ http://179.49.163.34:45000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES", REWIND
 http://179.49.163.34:45000/play/a03o/index.m3u8 
 
+#EXTINF:-1 tvg-id="CINEPARODY" tvg-name="CINE PARODY" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES", CINE PARODY
+http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/54945
+
 #EXTINF:-1 tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
@@ -393,7 +399,7 @@ http://190.60.33.245:4002/play/a1hi/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
 http://200.60.124.19:29000/play/a01s/index.m3u8 
 
-old
+#EXTINF:-1 tvg-id="OLD" tvg-name="OLD" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="CINE Y SERIES", OLD
 http://45.184.87.142:8000/play/a03e
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
@@ -597,10 +603,7 @@ http://tvdirecto.pro:8080/live/948068511/8noplifre/352971.m3u
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5648.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BUGS BUNNY" tvg-logo="http://oaktvpro.club:50003/images/d0fb55f7458aab1198dab0944b0a1034.jpg" group-title="24/7", 24/7 BUGS BUNNY
-http://tvdirecto.pro:8080/live/948068511/8noplifre/5634.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title=" 24/7", El Superagente 86
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title="24/7", El Superagente 86
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (OAK)" tvg-logo="http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png" group-title="24/7", The Big Bang Theory
@@ -642,7 +645,14 @@ http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Fresh Prince of Bel Air (e)" tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" group-title="24/7", The Fresh Prince of Bel Air
 http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868
 
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://imgs.search.brave.com/fDsZ4jRets0bQnsgu_dCVTaa9wUKjUJkWQ-Rm0_HP58/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg4L2Rl/L2MwLzg4ZGVjMGUy/YzZmM2YzMGJhNDE1/N2U5M2M3NWRmNzAx/LmpwZw" group-title="24/7", DRAGON BALL
+http://45.184.87.142:8000/play/a05k
+
+
 ----------ADULTOS----------
+
+#EXTINF:-1, group-title="ADULTOS", PORNSTARLOVEGIRLS
+http://206.212.244.71:8080/4wVQA7/625159/159952
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS", PLAYBOY
 http://45.5.119.43:4000/play/a02t/index.m3u8 
@@ -850,6 +860,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
