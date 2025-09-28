@@ -403,7 +403,7 @@ https://cdn-live.mundogo.cl/paramount/paramount.mpd
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
-http://190.238.172.153:8000/play/a0gx 
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
 
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -905,6 +905,7 @@ http://apk1.sonictv.xyz:2052/a.jesus/64363818/201800
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/201816
 #EXTINF:-1 tvg-id="" tvg-name="X4 | Perv Nana" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="|XXX| ADULT",X4 | Perv Nana
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/20194
+
 
 
 
