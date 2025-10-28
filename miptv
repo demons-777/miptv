@@ -39,9 +39,6 @@ http://tvpromas.com:2082/stkramip/8430/2368
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1 tvg-id="445" tvg-name="Camara de Diputados" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="NACIONAL", CAMARA DIPUTADOS
-https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="NACIONAL", TV SENADO
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 
@@ -909,6 +906,7 @@ http://apk1.sonictv.xyz:2052/a.jesus/64363818/201800
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/201816
 #EXTINF:-1 tvg-id="" tvg-name="X4 | Perv Nana" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="|XXX| ADULT",X4 | Perv Nana
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/20194
+
 
 
 
