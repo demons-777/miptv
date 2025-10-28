@@ -216,22 +216,13 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/585.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 1
-http://195.66.210.10:80/MiguelArrieta/QKBVE/158506
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (1)
-http://195.66.210.10:80/MiguelArrieta/QKBVE/158511
+http://magiz.net:25461/live/12345678/12345678/107.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
 http://195.66.210.10:80/MiguelArrieta/QKBVE/456658
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (2)
-http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
-
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="DEPORTES", DIRECTV SPORTS+
 http://195.66.210.10:80/MiguelArrieta/QKBVE/518959
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (+)
-http://195.66.210.10:80/MiguelArrieta/QKBVE/310535
 
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
 http://higherpro.xyz:8080/live/56956478056/270924ztv/360.m3u8
@@ -251,6 +242,8 @@ http://vipbftn.xyz:8080/live/jorge/jorge/246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="DEPORTES",M+ LA LIGA
 http://higherpro.xyz:8080/live/56956478056/270924ztv/60238.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="DEPORTES", SKY SPORTS
+http://45.5.119.43:4000/play/a05r/index.m3u8
 
 ----------CINE Y SERIES----------
 
@@ -435,7 +428,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278443.m3u8
 http://190.60.33.245:4002/play/a1hi/index.m3u8 
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
-http://200.60.124.19:29000/play/a01s/index.m3u8 
+http://magiz.net:25461/live/12345678/12345678/39.m3u8
 
 #EXTINF:-1 tvg-id="OLD" tvg-name="OLD" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="CINE Y SERIES", OLD
 http://45.184.87.142:8000/play/a03e
@@ -512,6 +505,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278539.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES", DISNEY JR
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278542.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Plim Plim TV" tvg-logo="https://cherrysmarbella.com/wp-content/uploads/2024/06/plim-plim-un-heroe-del-corazon.jpg" group-title="INFANTILES", Plim Plim TV
+http://magiz.net:25461/live/12345678/12345678/343.m3u8
 
 #EXTINF:-1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="INFANTILES", FMH KIDS
 http://179.49.163.34:45000/play/a03i/index.m3u8
@@ -913,6 +909,7 @@ http://apk1.sonictv.xyz:2052/a.jesus/64363818/201800
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/201816
 #EXTINF:-1 tvg-id="" tvg-name="X4 | Perv Nana" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="|XXX| ADULT",X4 | Perv Nana
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/20194
+
 
 
 
