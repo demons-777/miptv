@@ -108,13 +108,10 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 1
-http://magiz.net:25461/live/12345678/12345678/85.m3u8
+http://orionvideo.miratv.cl:49999/livedev/cdfpremium/chunklist_w88421965_tkY21ldHRva2VuQ3VzdG9tUGFyYW1ldGVyPWFkZWM3NTZmLTNlNWMtNGNjMy1hMmQ1LTU1ZDI2ZGIwYjRiOCZjbWV0dG9rZW5lbmR0aW1lPTE3NjY2MzExNzkmY21ldHRva2Vuc3RhcnR0aW1lPTE3NjY2MTQ5NzkmY21ldHRva2VuaGFzaD1GOF9FSTlncU1IVUwyQ2xZSDNMQ0RZazhOMkg2a2JiSFczeVR0YjljMVM0PQ==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 2" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 2
 http://newemma.xyz:8080/995243891/270223/88
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 3
-http://181.78.85.53:9002/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 4
 http://195.66.210.10:80/MiguelArrieta/QKBVE/21961
@@ -141,7 +138,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/61276.m3u8
 http://104.238.205.28:8989/278540_.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
-http://magiz.net:25461/live/12345678/12345678/341.m3u8
+http://tv.nuevadomi.com:8080/brucasarez2/UEzQwpa6pV/87175
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,7 +220,7 @@ http://newemma.xyz:8080/995243891/270223/474
 http://newemma.xyz:8080/995243891/270223/469
 
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
-http://higherpro.xyz:8080/live/56956478056/270924ztv/360.m3u8
+http://orionvideo.miratv.cl:49999/livedev/winsports/chunklist_w2101970034_tkY21ldHRva2VuQ3VzdG9tUGFyYW1ldGVyPTRiOWNmNjZjLTMwMjMtNGY4ZC05OGE2LTVjMTFiYzk4ODI2NiZjbWV0dG9rZW5lbmR0aW1lPTE3NjY2OTc3NjkmY21ldHRva2Vuc3RhcnR0aW1lPTE3NjY2ODE1NjkmY21ldHRva2VuaGFzaD1fVlZyNDM0dEpNQWp0XzZvT2hydnNvZlZsT0ZYRmFhT29ZRXZlMmdtWFBNPQ==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278577.m3u8
@@ -903,6 +900,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/14213.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14215.m3u8
+
 
 
 
