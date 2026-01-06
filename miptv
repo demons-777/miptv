@@ -403,7 +403,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278427.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278483.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
-http://45.184.87.142:8000/play/a04t
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/210669.m3u8
@@ -637,7 +637,7 @@ http://45.5.119.43:4000/play/a0ks/index.m3u8
 http://45.5.119.43:4000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY TURBO
-http://newemma.xyz:8080/995243891/270223/420
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278414.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="DISCOVERY WORLD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY WORLD
 http://45.5.119.43:4000/play/a0kp/index.m3u8
@@ -706,8 +706,11 @@ http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525856.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS (OAK)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e8sOmCgYVIBScHtIFyKJ0EIsXdmquI0FiA&s" group-title="24/7", LOS SIMPSONS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279041.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (OAK)" tvg-logo="http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png" group-title="24/7", The Big Bang Theory
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525876.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158384.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Mentalista (e)" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" group-title="24/7 SERIES", EL MENTALISTA 
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94937
@@ -800,6 +803,7 @@ http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/368074.m3u8
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/385536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX | ALEMANAS" tvg-logo="https://static.daktilo.com/sites/1168/uploads/2021/10/20/large/103769-0.jpg" group-title="XXX ADULTOS +18 ►►",XXX | ALEMANAS
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/300407.m3u8
+
 
 
 
