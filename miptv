@@ -275,8 +275,8 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="DEPORTES", LIGA DE CAMEPONES POR M+
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278845.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="" group-title="DEPORTES", TIGO SPORTS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
+http://45.5.119.43:4000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LATIN AMERICA SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpyFfS_isX5pLICeWcccj0M_qDBgPiEusvg&s" group-title="DEPORTES", LATIN AMERICA SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
@@ -304,13 +304,16 @@ http://179.49.163.34:45000/play/a02c/index.m3u8
 http://179.49.163.34:45000/play/a01y/index.m3u8 
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158670.m3u8
+http://45.5.119.43:4000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
 http://179.49.163.34:45000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278463.m3u8
+
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL 2
+http://190.171.83.2:4000/play/a0pr/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
 http://179.49.163.34:45000/play/a04w/index.m3u8
@@ -385,7 +388,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278489.m3u8
 http://45.5.119.43:4000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298373.m3u8
+http://45.5.119.43:4000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2 2
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278493.m3u8
@@ -581,7 +584,7 @@ http://190.171.83.2:4000/play/a0pu/index.m3u8
 http://179.49.163.34:45000/play/a04p/index.m3u8 
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
+http://45.5.119.43:4000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/300?cb=20220927013159" group-title="INFANTILES", BABYTV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278533.m3u8
@@ -602,7 +605,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://stream.ads.ottera.tv/cl/260127d5sk14265su5mt1n4nu0/1280x720_3071200_0_f.m3u8?i=475_6613
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
-http://179.49.163.34:45000/play/a004/index.m3u8
+http://179.49.163.34:45000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES", CARTOONITO
 http://179.49.163.34:45000/play/a04v/index.m3u8
@@ -611,7 +614,7 @@ http://179.49.163.34:45000/play/a04v/index.m3u8
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/cb573d19726c638e84cc3778d1f04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7acb35a408d6ef0e50141c47947fa83439fd401e980d45f8341d771f51795c0f083d512858cab599a03ec207b3b481cc9da06f9a348a5e58a7b308a702b5f6c248ccc9deb4230b9525063e8edc2a964fc0a94e54fe46338ab10993de75aeb3af062cd8242adb9c9bb282317859e2b0b4fa9e3a1b5ef2c23b8149fc88bf35226f79c767144bb05b2440219b2ac8643deb67ffbb733958b7a0937d2947a8e8fbef18bdaef64bd7f87ad979c34463c256e46d159a6cd35837bd935abcd4570111940a8ca189d82db0a7d324a84860684454ebf828e81857951a5641e4ce163dc64096dc233797de2288bfe560e8c3550fc5f57fa4825bf40e9b628f9a2a98e6c52b6dfc947f36ea1a11ce01763c31d54f3bc3e93563d66603fb5cd6e043c7cb13d8eb1f9c007c7847195b793f35c2d13315773018ef0ee739af4ab41a4e14d325404401f1a9346aa013398c4615cab3cfad6784680012822e8e73b58562cb4c1be838ed98024e739bba58c600a1c4bfa9211a55f6ca38ed48da10aeb340a7c8d0a764abe061571eb9bddec988761f45105c0374f1b79ccfc1b4046073d334ad3a761d95aed840ef9b5fe1c9dbfc3421ec50baa0f46ca8b9c74aeb9c8876e1f80a6522e6295f82ed13c7894409a78de9238f398612b30700044cb8551bf78bcdc91c862da0fa55d0c73ef37eac8b3fd862806a9c10a00320f5405761d237f5bf68983167511868b2ee859e9fc46e91304415869eac2510ec8b80d5ff653596faaa7c78ed7ba2018d861f970892d43915e032aeedb2ba8e496f6e98c7b5b10d3d5fa1aec41e972586c6c40fe9dff3101c581c31861551caad11432/167/1280x720_3849560/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278536.m3u8
+http://179.49.163.34:45000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/Lk9TH8f/disney-channel.png" group-title="INFANTILES", DISNEY CHANNEL
 http://179.49.163.34:45000/play/a00b/index.m3u8
@@ -944,6 +947,7 @@ http://nocable.cc:8080/38749603/61440631/159951
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="" group-title="+18 ►►" , TRANS EROTICA
 http://nocable.cc:8080/38749603/61440631/159952
+
 
 
 
