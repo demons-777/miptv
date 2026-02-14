@@ -1,6 +1,6 @@
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml.gz"
 
 
 ----------NACIONAL----------
@@ -952,6 +952,7 @@ http://nocable.cc:8080/38749603/61440631/159951
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="" group-title="+18 ►►" , TRANS EROTICA
 http://nocable.cc:8080/38749603/61440631/159952
+
 
 
 
