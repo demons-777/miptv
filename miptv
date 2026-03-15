@@ -210,13 +210,10 @@ http://38.224.73.146:8000/play/a0vr/index.m3u8
 http://152.231.29.139:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES  
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278577.m3u8
+http://45.173.201.51:4000/play/a0r8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkqyZg3t6OX8Cj5UzQpSdRn2Y-2-MQDBs-g&s" group-title="DEPORTES", AYM SPORTS
-http://38.49.128.38:8000/play/a0mk/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Teledeportes_2019_vector.svg/revision/latest/scale-to-width-down/281?cb=20231014044219&path-prefix=es" group-title="DEPORTES", TELE DEPORTES
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="DEPORTES",M+ LA LIGA
 http://higherpro.xyz:8080/live/56956478056/270924ztv/60238.m3u8
@@ -280,7 +277,7 @@ http://38.226.210.46:8000/play/a031/index.m3u8
 http://38.226.210.46:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278465.m3u8
+http://200.115.120.1:8000/play/ca132/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 http://38.226.210.46:8000/play/a041/index.m3u8
@@ -289,7 +286,7 @@ http://38.226.210.46:8000/play/a041/index.m3u8
 http://38.226.210.46:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE PREMIUM" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="CINE Y SERIES", CINE PREMIUM
-http://181.78.8.199:8000/play/a09q/index.m3u8
+http://181.78.192.238:8000/play/a2aj/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE FAMILIAR" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="CINE Y SERIES", CINE FAMILIAR
 http://181.78.8.199:8000/play/a09p/index.m3u8
@@ -340,7 +337,7 @@ http://38.224.231.98:8000/play/a0sr/index.m3u8
 http://38.224.231.47:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="CINE Y SERIES", HBO SIGNATURE 
-http://38.224.231.47:8000/play/a01g/index.m3u8
+http://200.115.120.1:8000/play/ca139/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
 http://38.224.231.47:8000/play/a03k/index.m3u8
@@ -682,7 +679,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007e
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/285990.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279024.m3u8
+http://186.194.160.110:9002/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://i.pinimg.com/736x/b2/4e/dc/b24edc1615d2dc1bd2d558eebed79adb.jpg" group-title="24/7", DRAGON BALL SUPER
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279026.m3u8
@@ -717,6 +714,9 @@ http://38.224.73.146:8000/play/a16d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←", ADULTOS
 http://200.115.120.1:8000/play/ca99/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←", BRAZZERS
+http://200.115.120.1:8000/play/ca98/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14087.m3u8
