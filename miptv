@@ -512,7 +512,7 @@ http://38.224.175.2:8000/play/a0mt/index.m3u8
 http://38.224.231.98:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERITHEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d5f9d1a5dbc14cfc5e_d-theater.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY THEATER
-http://38.224.175.2:8000/play/a06w/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY TURBO
 http://38.224.73.146:8000/play/a12k/index.m3u8
@@ -551,13 +551,13 @@ http://181.78.67.171:8000/play/a0xm/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F40%2F6402338_F2F85E917E131706.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO", HOLA TV
-http://38.224.175.2:8000/play/a062/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/38.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", HGTV
 http://181.78.8.199:8000/play/a0g0/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY
-http://38.224.73.146:8000/play/a18z/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2
 http://181.78.8.199:8000/play/a0ag/index.m3u8
@@ -572,7 +572,8 @@ http://181.78.8.199:8000/play/a0a3/index.m3u8
 http://181.78.8.199:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
-http://38.224.231.98:8000/play/a0wm/index.m3u8
+http://38.224.231.47:8000/play/a046/index.m3u8
+
 
 ----------24/7-----------
 
