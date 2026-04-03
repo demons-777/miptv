@@ -203,7 +203,7 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 http://217.26.190.76:8888/play/a0jr/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES  
-http://45.173.201.51:4000/play/a0r8/index.m3u8
+http://200.115.96.66:4000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkqyZg3t6OX8Cj5UzQpSdRn2Y-2-MQDBs-g&s" group-title="DEPORTES", AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
@@ -217,14 +217,17 @@ http://177.10.184.193:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES
 http://181.176.155.7:8090/play/a1pw/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png" group-title="DEPORTES", TENNIS CHANNEL
-http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES", WIN SPORTS +
 http://38.19.41.123:8000/play/a0cl/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png" group-title="DEPORTES", TENNIS CHANNEL
+http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMKHGeDkGIrrpwyUmTU3pVORNfUGE6JtR7A&s" group-title="DEPORTES", NBA
 http://212.102.60.231:80/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/250px-Golf_Channel_logo_2025.svg.png" group-title="DEPORTES", GOLF CHANNEL
+http://181.119.111.25:4000/play/a0cb/index.m3u8
 
 
 ----------CINE Y SERIES----------
@@ -246,7 +249,7 @@ http://38.226.210.46:8000/play/a031/index.m3u8
 http://38.226.210.46:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
-http://45.173.201.51:4000/play/a0rg/index.m3u8
+http://200.115.96.66:4000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 http://38.226.210.46:8000/play/a041/index.m3u8
@@ -396,7 +399,7 @@ http://138.121.114.91:8000/play/a08c/index.m3u8
 http://152.231.29.139:8000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
-http://38.41.8.1:8000/play/a04x
+http://181.78.20.119:58002/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="FREETV CLASICO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/51e560600b65af19f305f491df5d04ac.webp", group-title="CINE Y SERIES", FREETV CLASICO
 https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/cb573d19726c638e84cc3778d1f04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe65f178c3da8b70141c47a17fa83439fd401b3d6d15283478073f7469493f7df8213878cac599b0ee1466e324754b8a234c29331dcbf9966298c705a257434b6f9e794263d96577c52f9f2cecd0d9575e89b20845401e17ff22a83358479af7bd18b3a90a8b77c8f422ca8c5482104ac466199f23632ae3cb2c88ad97a78ebb47e381eca3d8c717f3ac8fbcd4cd2c616c6e57681e43e183e98c11799cbb7d7bfe38e10e84fa0d2e7a72d50477505019f2fc4f0098a649035f2a47942584350dff93fa5d6ebbf51083fee2ae0597261dbf8a7c1ba2d33c36c1e28900abb68241c02b0f11e9f40ca95297881662b88302ff25b34fa299401db79c6a9813234b8db853e978377386ba0942080174d6b07b4fb2351054878dcae44043f7bca4aaeb398a71f6371b5d2eaec597c1aa740152234d236bb423bc4b0081013d35a25613b23169810df68d80f73cd4fa311fea3137d890a2062b3e96f1d125b9fc6b58e90c58a6a813f829fb369747b6e6ab365517d2ecbe0d910bd195b6e7658b70a6668b4131517b9c287b6cfc026e5b45087142e546fccfb12012e57706805d2d04bdf4ced9e18f6ca9e0c82bfc3420bd57c9000169fc2d523adbed6891c59e2df3d73509edd23ca643e87468459effc4498e105484c460322a4a95bf058b5dae0b708923ea242063ea7388c95edb7d97145a5f66e36200241186f58157d5be93ab4f3bac14adaf3dd904dc5efda94a840f8a4398b4b6b/171/1920x1080_7619040/index.m3u8
@@ -442,7 +445,7 @@ http://38.252.213.12:8000/play/a06z
 
 
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?crop=178px%2C100px%2C666px%2C371px&resize=1000%2C563" group-title="INFANTILES", ADULT SWIM
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/08.m3u8
+http://181.78.20.119:58002/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
 http://38.224.231.98:8000/play/a0le/index.m3u8
