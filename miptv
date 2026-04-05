@@ -239,11 +239,11 @@ http://181.119.111.25:4000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" group-title="CINE Y SERIES", A3S
 http://38.224.231.47:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Atrescine_logo.svg" group-title="CINE Y SERIES", A3CINE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="CINE Y SERIES", A3CINE
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://38.224.231.47:8000/play/a02y/index.m3u8
+http://38.224.231.98:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
 http://38.226.210.46:8000/play/a044/index.m3u8
@@ -297,7 +297,7 @@ http://38.252.213.12:8000/play/a06y
 http://38.252.213.12:8000/play/a07n
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+http://181.209.37.74:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="CINE Y SERIES", STARZ 
 http://181.114.57.246:4000/play/tyuptHZqYdP3wcU7/index.m3u8
@@ -630,42 +630,86 @@ http://186.194.160.110:9002/play/a0gv/index.m3u8
 ----------CANALES ADULTOS----------
 
 
-#EXTINF:-1,PLAYBOY group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", PLAYBOY
 http://152.231.29.139:8000/play/a0dl/index.m3u8 
 
-#EXTINF:-1,VENUS group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", VENUS
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 
-#EXTINF:-1,SEXTREME group-title="CANALES ADULTOS"
-http://38.224.73.146:8000/play/a16d/index.m3u8
+#EXTINF:-1, group-title="CANALES ADULTOS", SEXTREME
+http://38.224.231.98:8000/play/a01g/index.m3u8
 
-#EXTINF:-1,AULTOS group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", ADULTOS
 http://200.115.120.1:8000/play/ca99/index.m3u8
 
-#EXTINF:-1,PORNBOX TRANS: TRANS ANGELS group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", TRANS ANGEL
 http://nocable.cc:8080/38749603/61440631/159951
 
-#EXTINF:-1,BABES TV group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", TRANS EROTICA
+http://nocable.cc:8080/38749603/61440631/159952
+
+#EXTINF:-1, group-title="CANALES ADULTOS", BABES TV
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv0KGEe93iTl6PKRG3lYhWTtB9oIUli2xlh_KRAJ1-68a
 
-#EXTINF:-1,DORCEL TV group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", DORCEL TV
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv0KGEe93iTl6PKRG3lYhWTtyiO3ucM3-nLjeIr7KnDIY
 
-#EXTINF:-1,EROS group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", EROS
 http://vipketseyket.top:8080/08072024LC/08072024LC/157045
 
-#EXTINF:-1,PENTHOUSE group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", PENTHOUSE
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv0KGEe93iTl6PKRG3lYhWTu-jzagqdL2X56ibCzvrDy9
 
-#EXTINF:-1,PLAYHOUSE group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", PLAYHOUSE
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv0KGEe93iTl6PKRG3lYhWTumFLhYC21HzqZ2twX6FPsl
 
-#EXTINF:-1,PORNBOX group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", PORNBOX
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv0KGEe93iTl6PKRG3lYhWTvuvf76z03tXXaqwhJo6Wng
 
-#EXTINF:-1,BRAZZERS group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", BRAZZERS
 http://200.115.120.1:8000/play/ca98/index.m3u8
 
-#EXTINF:-1,EXXXOTICA group-title="CANALES ADULTOS"
+#EXTINF:-1, group-title="CANALES ADULTOS", EXXXOTICA
 http://200.115.120.1:8000/play/ca96/index.m3u8
 
+#EXTINF:-1, group-title="CANALES ADULTOS", SEX MEX
+https://tvgolat.org:8443/vera001/29112023/227254.m3u8
+
+#EXTINF:-1, group-title="CANALES ADULTOS", MOM XXX
+http://nocable.cc:8080/38749603/61440631/160014
+
+#EXTINF:-1, group-title="CANALES ADULTOS", MYLF
+http://nocable.cc:8080/38749603/61440631/160022
+
+#EXTINF:-1, group-title="CANALES ADULTOS", NF BUSTY
+http://nocable.cc:8080/38749603/61440631/160024
+
+#EXTINF:-1, group-title="CANALES ADULTOS", SUGAR BABES TV
+http://nocable.cc:8080/38749603/61440631/160044
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Bratty Milf
+http://nocable.cc:8080/38749603/61440631/215493
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Cumshot
+http://nocable.cc:8080/38749603/61440631/215518
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Futanari
+http://nocable.cc:8080/38749603/61440631/215558
+
+#EXTINF:-1, group-title="CANALES ADULTOS", GirlGirlXXX
+http://nocable.cc:8080/38749603/61440631/215567
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Hentai
+http://nocable.cc:8080/38749603/61440631/215574
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Mature
+http://nocable.cc:8080/38749603/61440631/215645
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Proberty Sex
+http://nocable.cc:8080/38749603/61440631/21571
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Public
+http://nocable.cc:8080/38749603/61440631/215715
+
+#EXTINF:-1, group-title="CANALES ADULTOS", Sara Jay
+http://nocable.cc:8080/38749603/61440631/215738
