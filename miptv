@@ -7,7 +7,7 @@ http://38.224.175.2:8000/play/a02r/index.m3u8
 http://38.252.213.12:8000/play/a00h
 
 #EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL", CHILEVISION
-http://38.252.213.12:8000/play/a02i
+http://45.5.57.132:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL 13
 http://38.226.210.46:8000/play/a02t/index.m3u8
@@ -136,7 +136,7 @@ http://38.224.175.2:8000/play/a05g/index.m3u8
 http://38.224.175.2:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 2
-http://38.224.175.2:8000/play/a0t5/index.m3u8
+http://38.224.231.47:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -144,10 +144,10 @@ http://38.224.175.2:8000/play/a0t5/index.m3u8
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 4" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4
-http://38.224.175.2:8000/play/a075/index.m3u8
+http://38.224.231.47:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5CHILE" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5
-http://38.224.175.2:8000/play/a0t2/index.m3u8
+http://181.79.87.130:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
 http://38.224.175.2:8000/play/a07m/index.m3u8
@@ -475,7 +475,7 @@ http://181.78.8.199:8000/play/a09o/index.m3u8
 http://38.44.109.41:8003/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="etctv" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png" group-title="INFANTILES", ETC 
-http://186.194.160.110:9002/play/a0o3/index.m3u8
+http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://200.229.147.142:8000/play/a05d/index.m3u8
