@@ -447,7 +447,7 @@ http://45.173.201.51:4000/play/a0lp/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?crop=178px%2C100px%2C666px%2C371px&resize=1000%2C563" group-title="INFANTILES", ADULT SWIM
-http://181.209.37.74:8001/play/a08d/index.m3u8
+http://181.78.17.52:8000/play/a0qe/index.m3u8
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
 http://181.205.130.194:4000/play/a06t
