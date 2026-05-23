@@ -21,13 +21,10 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowo
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
-http://104.250.128.34/livehttpplay?channel_id=23557
+https://cl-a8-i-e-rv11.cdn.mdstrm.com/live-stream-gdai/631a1d95d3d77c082535e614/linear/hls/pa/event/1_f3W_akRkGQIM6-Xz3l3w/stream/7b183f3d-bebd-4100-af21-207efd3a6f7f:MRN2/variant/ebfbbaf52319c33a4ba32b35a34b0a19/bandwidth/5134800.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=9XfMTdbSCCau5RL4AtQTOde3aKX1yboi&sid=yIdJFY3i43rLmB9azduSKYAlfeO2cujy&pid=h5WsLSpElBVm8oaObTIUaRPGRtp8YZ6b&pid_dvr=g60Nven9MoMtRLCsCnaYyAWLc80ncGYM&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=PEkAHyK7J00SEJaBKpNVpsVfxicYWnusm2lWLJPRxesjH2jRJ87MNloemCK7QsB5alLwEVkBSDt&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D80500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22h5WsLSpElBVm8oaObTIUaRPGRtp8YZ6b%22&adInsertionGoogleStreamId=7b183f3d-bebd-4100-af21-207efd3a6f7f%3AMRN2&es=cl-a8-i-e-rv11.cdn.mdstrm.com&ote=1779639074627&ot=KXqeRhHY3GY-akU71Z-gaQ&proto=https&pz=cl
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
-http://104.250.128.34/livehttpplay?channel_id=23526
-
-#EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="NACIONAL", TV SENADO
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 
 #EXTINF:-1 tvg-id="ZONALATINA" tvg-name="ZONA LATINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es" group-title="NACIONAL", ZONA LATINA
 http://45.232.210.1:18000/play/a09h/index.m3u8
@@ -45,7 +42,7 @@ http://45.181.122.46:8090/play/a03i
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="NACIONAL", TVR
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="NACIONAL", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
@@ -92,32 +89,41 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="TVCHILE" tvg-name="TV CHILE" tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="NACIONAL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV SENADO" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69bff229c311c.jpg" group-title="NACIONAL", TV SENADO
+https://janux-tv.senado.cl/playlist/stream.m3u8?d=w&id=mpij16fn&t=0&q=8&s=hd
+
+#EXTINF:-1 tvg-id="TVDIPUTADOS" tvg-name="TV DIPUTADOS" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67e4901f132d2.jpg" group-title="NACIONAL", TV DIPUTADOS
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UDECHILE" tvg-name="U DE CHILE" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67bb8ec93cc28.png" group-title="NACIONAL", U DE CHILE
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
 
 ----------DEPORTES----------
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 1
+#EXTINF:-1 tvg-id="1" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 1
 http://38.226.210.46:8000/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 2
+#EXTINF:-1 tvg-id="2" tvg-name="TNT SPORTS PREMIUM 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 2
 http://45.181.122.46:8090/play/a00i
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 3
+#EXTINF:-1 tvg-id="3" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 3
 http://201.230.121.171:8000/play/a075/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209", TNT SPORTS PREMIUM 4
+#EXTINF:-1 tvg-id="4" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209", TNT SPORTS PREMIUM 4
 http://38.224.175.2:8000/play/a0rb/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 5" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 5
+#EXTINF:-1 tvg-id="5" tvg-name="TNT SPORTS PREMIUM 5" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 5
 http://45.232.210.1:18000/play/a05l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 6" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 6
+#EXTINF:-1 tvg-id="6" tvg-name="TNT SPORTS PREMIUM 6" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 6
 http://38.226.49.253:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 7" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 7
+#EXTINF:-1 tvg-id="7" tvg-name="TNT SPORTS PREMIUM 7" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 7
 http://181.205.130.194:4000/play/a0e4
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 8" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 8
+#EXTINF:-1 tvg-id="8" tvg-name="TNT SPORTS PREMIUM 8" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 8
 http://170.244.209.30:8000/play/a0n6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778968513356" group-title="DEPORTES", TNT SPORTS 1
