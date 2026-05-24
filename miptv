@@ -21,8 +21,7 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowo
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="MEGA2" tvg-name="MEGA 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Mega_2_2022.svg/revision/latest/scale-to-width-down/200?cb=20230120022851&path-prefix=es" group-title="NACIONAL", MEGA 2
-http://38.199.4.105:9999/play/a0t9/index.m3u8
-
+https://mdstrm.com/live-stream-playlist/631a1d95d3d77c082535e614.m3u8?uid=A7tv8DiH1TcUsYkL9IsJIqWXp38VbavX&sid=oIy4axLUlZaKv32pdNy8WdXoKssfDIl2&pid=1fLMUtxa2zshv2oZanwT7Qjp8MRLp0qS&pid_dvr=6ITgBnaatrtRt2mWs0pzzMWBUpgobDTq&an=site-mega&at=web-app&av=v7.0.45&ref=https%3A%2F%2Fwww.mega.cl%2F&res=664x374&without_cookies=false&listenerid=&dnt=true&access_token=cL5hnqcOfTiIWzYEKLauMzxkU30PUgRpcH4ze1J1ySl76qwWomEQWFgOjWv4XBkCfconacwujX5&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%221fLMUtxa2zshv2oZanwT7Qjp8MRLp0qS%22%2Csu
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
 http://38.224.175.2:8000/play/a02u/index.m3u8
 
