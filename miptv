@@ -193,7 +193,7 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 http://38.226.49.253:8000/play/a0gl/index.m3u8
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
-http://38.226.49.253:8000/play/a0g4/index.m3u8
+http://38.187.7.252:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="DEPORTES", CLARO SPORTS 1
 http://45.5.116.228:8000/play/a04r/index.m3u8
@@ -202,7 +202,7 @@ http://45.5.116.228:8000/play/a04r/index.m3u8
 http://45.167.1.136:8000/play/a00e
 
 #EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", TVC DEPORTES
-http://177.10.184.193:8000/play/a0dt/index.m3u8 
+http://38.226.49.253:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN DEPORTES
 http://45.5.118.152:8000/play/a08f/index.m3u8
@@ -250,10 +250,7 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 http://38.49.138.198:8000/play/a0bs/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="DEPORTES", SKY SPORTS LA LIGA
-http://45.5.119.43:4000/play/a05r/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://images.contentstack.io/v3/assets/blt4b099fa9cc3801a6/blt689a8ec21a8ba16e/68a31aaf6ea2cd2d8de77c49/Bun-MAIN.jpg" group-title="DEPORTES", SKY SPORTS BUNDESLIGA
-http://190.61.101.11:7050/play/a08z/index.m3u8
+http://200.115.96.66:4000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
@@ -504,7 +501,7 @@ http://181.78.6.2:9080/play/a0ck/index.m3u8
 http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
-http://200.229.147.142:8000/play/a05d/index.m3u8
+http://181.78.14.26:4000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
 http://38.52.208.106:8000/play/a00j/index.m3u8
